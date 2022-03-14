@@ -4,6 +4,13 @@ public class Test {
 
 	public static void main(String[] args) {
 		
+		
+		Personne p1 = new Personne();
+		System.out.println("*****");
+		Personne p2 = new Personne("amine");
+		
+		//Personne.affichage();
+		/*
 		System.out.println(Personne.nbrePersonne);
 		Personne p1 = new Personne();
 		System.out.println(Personne.nbrePersonne);
@@ -12,7 +19,7 @@ public class Test {
 		System.out.println(p1.nbrePersonne);
 		p2.nbrePersonne = 20;
 		System.out.println(p1.nbrePersonne);
-		p1.info();
+		p1.info();*/
 		/*Personne p3 = new Personne("Ali",20,16.5);
 		 * 
 		 
