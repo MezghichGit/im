@@ -1,9 +1,25 @@
 package formationOCA.chapter1;
 
+import formationOCA.chapter2.*;
+import formationOCA.chapter2.info.*;
+import formationOCA.chapter3.*;
+import formationOCA.chapter3.B;
+import static formationOCA.chapter3.F.*;
 public class Test {
 
 	public static void main(String[] args) {
 		
+		String ch=null;
+		System.out.println(ch.length());
+		/*
+		display();
+		System.out.println(valeur);
+		A a = new A();
+		C c = new C();
+		B b = new B();
+		D d = new D();
+		E e = new E();
+		F f = new F();
 		
 		Personne p1 = new Personne();
 		System.out.println("*****");
